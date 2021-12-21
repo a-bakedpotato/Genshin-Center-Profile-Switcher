@@ -18,3 +18,4 @@ compile this yourself:
    it will install it for you.
 
 ## Usage
+![usage](https://user-images.githubusercontent.com/77371158/147000326-59c45e5f-992b-44e6-a1f7-068440a8e41e.gif)
