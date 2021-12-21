@@ -1,0 +1,21 @@
+{
+  "name": "genshin-center",
+  "version": "1.0.0",
+  "description": "Genshin Center Profile Switcher",
+  "main": "index.js",
+  "scripts": {
+	"pack": "electron-builder --dir",
+	"dist": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^16.0.4",
+    "electron-builder": "^22.14.5"
+  },
+  "build": {
+	"appId": "com.genshin-center"
+  }
+}
